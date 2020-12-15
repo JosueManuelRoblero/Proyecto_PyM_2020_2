@@ -1,1 +1,2 @@
-# Universidad Autonoma del Estado de Baja California
+# Universidad Autonoma del Estado de Baja  California
+##Programación y Metodos Númericos
