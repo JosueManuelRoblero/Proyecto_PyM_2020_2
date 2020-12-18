@@ -9,7 +9,7 @@
 
 
 
-### Practica 1:Introducción al entorno y variables de programación en lenguaje C
+### Práctica 1:Introducción al entorno y variables de programación en lenguaje C
 
 **a) El usuario ingresa el radio de una esfera y se calculará su volumen. Imprimir un mensaje con el volumen calculado en pantalla. Definir el volumen como una constante.**
 
@@ -21,7 +21,7 @@
 
 ------------
 
-### Prac 2: Estructuras de control condicionales simples y múltiples
+### Práctica 2: Estructuras de control condicionales simples y múltiples
 
 
 
