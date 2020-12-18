@@ -18,7 +18,7 @@
 **c) El usuario ingresa su nombre, edad y peso (kg). El programa imprime un mensaje con su nombre, edad y peso y calcula su índice de masa corporal (IMC).**
 
 [Radio de una esfera](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/tree/main/Practica%201*)
-[Fuerza de atraccion]()
+[Fuerza de atraccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%201/Ejercicio%202%20programacion.cpp)
 [Nombre, edad y peso]()
 
 ------------
