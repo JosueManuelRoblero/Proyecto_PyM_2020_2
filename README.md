@@ -19,7 +19,7 @@
 
 [Radio de una esfera](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/tree/main/Practica%201*)
 [Fuerza de atraccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%201/Ejercicio%202%20programacion.cpp)
-[Nombre, edad y peso]()
+[Nombre, edad y peso](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%201/Ejercicio%203%20programacion.cpp)
 
 ------------
 
