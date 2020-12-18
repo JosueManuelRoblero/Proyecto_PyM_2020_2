@@ -4,7 +4,4 @@
 
 **Por Josue Manuel Roblero Bartolon**
 
-## Laboratorio #1
-**Introducción al entorno y variables de
-programación en lenguaje C**
-
+## Laboratorio 1:**Introducción al entorno y variables de programación en lenguaje C**
