@@ -1,4 +1,4 @@
-#     Universidad Autónoma del Estado de Baja California 
+# Universidad Autónoma del Estado de Baja California 
 
 ## Programación y Métodos Numéricos 
 
@@ -6,6 +6,7 @@
 
 
 
-## Laborator #1
+## Laboratorio #1
+
 **Introducción al entorno y variables de
 programación en lenguaje C**
