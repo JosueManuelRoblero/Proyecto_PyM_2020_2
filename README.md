@@ -28,36 +28,46 @@ utilizando elementos de entrada y salida de datos.**
 
 ### Práctica 2: Estructuras de control condicionales simples y múltiples
 
-**Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.
-Desarrollar y codificar en C algoritmos que involucren estructuras condicionales anidadas.
-Desarrollar y codificar en C algoritmos que involucren estructuras de control enlazadas por medio de operadores lógicos && y ||
-Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.**
+**Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.**
+
+**Desarrollar y codificar en C algoritmos que involucren estructuras condicionales anidadas.**
+
+**Desarrollar y codificar en C algoritmos que involucren estructuras de control enlazadas por medio de operadores lógicos && y ||**
+
+**Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.**
 ------------
 
 ### Práctica 3:Estructuras repetitivas
 
-**Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y “do while”.
-Encontrar errores en ciclos: ciclos infinitos, condiciones no cumplidas, etc...
-Comprender ciclos anidados.
-Implementar programas que lean y procesen varios datos.**
+**Desarrollar y codificar en C++ estructuras de repetición: ciclos “while” y “do while”.**
+
+**Encontrar errores en ciclos: ciclos infinitos, condiciones no cumplidas, etc...**
+
+**Comprender ciclos anidados.**
+
+**Implementar programas que lean y procesen varios datos.**
 ------------
 ### Praáctica 4:Funciones, arreglos y matrices
 ------------
 ### Práctica 5:Métodos cerrados: de la bisección y de la falsa posición.
 
-**Desarrollar y codificar en lenguaje C el método de bisección.
-Desarrollar y codificar en lenguaje C el método de la falsa posición.
-Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.**
+**Desarrollar y codificar en lenguaje C el método de bisección.**
+
+**Desarrollar y codificar en lenguaje C el método de la falsa posición.**
+
+**Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.**
 ------------
 
 ### Práctica 6:Métodos de Newton-Rhapson y de la secante
-**Desarrollar y codificar en C los métodos de Newton-Raphson y de la secante
-Encontrar las ventajas y desventajas de los métodos abiertos de bisección para el cálculo de las raíces.**
+**Desarrollar y codificar en C los métodos de Newton-Raphson y de la secante**
+
+**Encontrar las ventajas y desventajas de los métodos abiertos de bisección para el cálculo de las raíces.**
 ------------
 
 ### Práctica 10:Derivación numérica
-**Analizar la diferenciación numérica por medio de su programación en C.
-Comparar los datos calculados en el taller con los obtenidos a la salida del programa.**
+**Analizar la diferenciación numérica por medio de su programación en C.**
+
+**Comparar los datos calculados en el taller con los obtenidos a la salida del programa.**
 ------------
 
 ### Práctica 11:Métodos de ecuaciones lineales
