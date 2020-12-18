@@ -1,10 +1,13 @@
-#Universidad Autonoma del Estado de Baja California
+# Universidad Autonoma del Estado de Baja California
 ## Programación y Métodos Numéricos
 
 
 ###### Repositorio elaborado por Josue Manuel Roblero Bartolon
 
-[========]
+
+------------
+
+
 
 #### Practica 1:Introducción al entorno y variables de programación en lenguaje C
 
@@ -17,4 +20,7 @@ c) El usuario ingresa su nombre, edad y peso (kg). El programa imprime un mensaj
 ------------
 
 #### Prac 2: Estructuras de control condicionales simples y múltiples
+
+
+
 
