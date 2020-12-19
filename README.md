@@ -58,6 +58,14 @@ utilizando elementos de entrada y salida de datos.**
 
 **Implementar programas que lean y procesen varios datos.**
 
+[Números binarios](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/N%C3%BAmeros%20binarios.cpp)
+
+[Código valido invalido](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Codigo%20valido%20invalido.cpp)
+
+[Serie Fibonacci](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Serie%20Fibonacci.cpp)
+
+[Aproximar el número Áureo](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Aproximar%20el%20numero%20%C3%A1ureo.cpp)
+
 ------------
 ### Práctica 4:Funciones, arreglos y matrices
 
