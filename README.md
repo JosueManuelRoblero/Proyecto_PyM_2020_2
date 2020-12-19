@@ -32,7 +32,7 @@ utilizando elementos de entrada y salida de datos.**
 
 **Desarrollar y codificar en C algoritmos que involucren estructuras condicionales anidadas.**
 
-**Desarrollar y codificar en C algoritmos que involucren estructuras de control enlazadas por medio de operadores lógicos && y ||**
+**Desarrollar y codificar en C algoritmos que involucren estructuras de control enlazadas por medio de operadores lógicos**
 
 **Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.**
 
