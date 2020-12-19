@@ -36,6 +36,16 @@ utilizando elementos de entrada y salida de datos.**
 
 **Resolver problemas matemáticos y de ingeniería donde se implementen las estructuras de control de selección por medio de la codificación de un programa en C.**
 
+[Número par/impar](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Par%20impar.cpp)
+
+[Edad](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Edad.cpp)
+
+[Ecuación cuadrática](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Ecuacion%20cuadratica.cpp)
+
+[Calcular impuestos](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Calculo%20de%20impuestos.cpp)
+
+[Indicador de riesgo IMC](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Indicador%20de%20riesgo%20IMC.cpp)
+
 ------------
 
 ### Práctica 3:Estructuras repetitivas
