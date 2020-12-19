@@ -61,6 +61,21 @@ utilizando elementos de entrada y salida de datos.**
 ------------
 ### Práctica 4:Funciones, arreglos y matrices
 
+[2 vectores elemento a elemento](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/2%20vectores%20con%20elementos%20enteros.cpp)
+
+[2 vectores llenados de forma aleatoria](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/2%20vectores%20con%20elementos%20enteros.cpp)
+
+[Suma de 2 arreglos vectoriales](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Suma%20de%20dos%20arreglos.cpp)
+
+[Suma de los elementos de un vector](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/Suma%20de%20los%20elementos%20de%20un%20arreglo.cpp)
+
+[Arreglo vectorial extendido a 2 dimensiones](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/Suma%20de%20dos%20arreglos%20extendida%20a%20dos%20dimensiones.cpp)
+
+[Llenado vectorial con numeros aleatorios extendido a dos dimensiones](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/Vector%20con%20numeros%20aleatoreos%20extendido%20a%20dos%20dimensiones)
+
+[Suma de 2 vectores a dos dimensiones](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%204/Suma%20de%20dos%20arreglos%20extendida%20a%20dos%20dimensiones.cpp)
+
+
 ------------
 ### Práctica 5:Métodos cerrados: de la bisección y de la falsa posición.
 
