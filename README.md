@@ -18,7 +18,7 @@ utilizando elementos de entrada y salida de datos.**
 
 **Comenzar a identificar el lenguaje de programación C y su sintaxis.**
 
-[Radio de una esfera](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/tree/main/Practica%201*)
+[Radio de una esfera](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%201/Ejercicio%201%20programacion.cpp)
 
 [Fuerza de atraccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%201/Ejercicio%202%20programacion.cpp)
 
