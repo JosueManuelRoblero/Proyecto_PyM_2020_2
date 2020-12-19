@@ -130,7 +130,7 @@ utilizando elementos de entrada y salida de datos.**
 ### Práctica 11:Métodos de ecuaciones lineales
 
 **Se deberá comprobar mediante un programa en lenguaje C la solución del sistema de ecuaciones calculado manualmente en el taller**
-**a) Mediante el método de Jacobi
+**a) Mediante el método de Jacobi.
 b) Mediante el método de Gauss Seidel**
 
 [Método de Jacobi](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Jacobi.cpp)
