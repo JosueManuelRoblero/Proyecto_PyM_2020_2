@@ -60,8 +60,11 @@ utilizando elementos de entrada y salida de datos.**
 
 **Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.**
 [Formula 1 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20biseccion.cpp)
+
 [Formula 2 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20biseccion.cpp)
+
 [Formula 1 de Falsa posicion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20falsa%20posicion.cpp)
+
 [Formula 2 de Falsa posicion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20falsa%20posicion.cpp)
 
 ------------
@@ -72,8 +75,11 @@ utilizando elementos de entrada y salida de datos.**
 **Encontrar las ventajas y desventajas de los métodos abiertos de bisección para el cálculo de las raíces.**
 
 [Fórmula 1 Newton-Rhapson](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/1%20Practica%206.cpp)
+
 [Fórmula 2 Newton-Rhapson](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/2%20Practica%206.cpp)
+
 [Fórmula 1 Secante](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/3%20Practica%206.cpp)
+
 [Fórmula 2 Secante](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/4%20practica%206.cpp)
 
 ------------
@@ -94,6 +100,7 @@ utilizando elementos de entrada y salida de datos.**
 b) Mediante el método de Gauss Seidel**
 
 [Metodo de Jacobi](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Jacobi.cpp)
+
 [Método Gauss-Seidel](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/GaussSeidel.cpp)
 
 
