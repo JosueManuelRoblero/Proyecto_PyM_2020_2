@@ -49,7 +49,7 @@ utilizando elementos de entrada y salida de datos.**
 **Implementar programas que lean y procesen varios datos.**
 
 ------------
-### Praáctica 4:Funciones, arreglos y matrices
+### Práctica 4:Funciones, arreglos y matrices
 
 ------------
 ### Práctica 5:Métodos cerrados: de la bisección y de la falsa posición.
@@ -59,13 +59,13 @@ utilizando elementos de entrada y salida de datos.**
 **Desarrollar y codificar en lenguaje C el método de la falsa posición.**
 
 **Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.**
-[Formula 1 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20biseccion.cpp)
+[Fórmula 1 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20biseccion.cpp)
 
-[Formula 2 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20biseccion.cpp)
+[Fórmula 2 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20biseccion.cpp)
 
-[Formula 1 de Falsa posicion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20falsa%20posicion.cpp)
+[Fórmula 1 de Falsa posición](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20falsa%20posicion.cpp)
 
-[Formula 2 de Falsa posicion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20falsa%20posicion.cpp)
+[Fórmula 2 de Falsa posición](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20falsa%20posicion.cpp)
 
 ------------
 
@@ -99,7 +99,7 @@ utilizando elementos de entrada y salida de datos.**
 **a) Mediante el método de Jacobi
 b) Mediante el método de Gauss Seidel**
 
-[Metodo de Jacobi](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Jacobi.cpp)
+[Método de Jacobi](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Jacobi.cpp)
 
 [Método Gauss-Seidel](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/GaussSeidel.cpp)
 
