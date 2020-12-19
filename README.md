@@ -59,9 +59,10 @@ utilizando elementos de entrada y salida de datos.**
 **Desarrollar y codificar en lenguaje C el método de la falsa posición.**
 
 **Estimar y/o calcular las raíces de una función usando el método de la bisección y de la falsa posición.**
-[Fórmula 1 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20biseccion.cpp)
 
-[Fórmula 2 de biseccion](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20biseccion.cpp)
+[Fórmula 1 de bisección](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20biseccion.cpp)
+
+[Fórmula 2 de bisección](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%202%20de%20biseccion.cpp)
 
 [Fórmula 1 de Falsa posición](https://github.com/JosueManuelRoblero/Proyecto_PyM_2020_2/blob/main/Practica%205/Formula%201%20de%20falsa%20posicion.cpp)
 
